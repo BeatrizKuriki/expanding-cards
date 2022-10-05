@@ -3,6 +3,7 @@
 * {
     box-sizing: border-box;
   }
+  
   body {
     font-family: 'Muli', sans-serif;
     display: flex;
@@ -59,4 +60,4 @@
     .panel:nth-of-type(5) {
       display: none;
     }
-  } 
+  }
