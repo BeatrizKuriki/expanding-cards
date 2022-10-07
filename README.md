@@ -27,7 +27,7 @@
 <br>
 
 <p>Imagem 2: Código JavaScript</p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/expanding-cards/blob/main/assets/c%C3%B3digoJS.PNG" width:1000></p>
 <br>
 
 
